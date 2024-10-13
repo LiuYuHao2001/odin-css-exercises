@@ -13,6 +13,7 @@ img {
 
   display: flex;
   justify-content: center;
+  margin-bottom: 32px;
 }
 
 /* do not edit this footer */
@@ -45,5 +46,5 @@ img {
   flex-direction: column;
   text-align: center;
   align-items: center;
-  width: 200px;
+  max-width: 200px;
 }
